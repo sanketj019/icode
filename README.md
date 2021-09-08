@@ -10,7 +10,7 @@ The background idea of the project is the websites like Quora, StackOverflow, et
 
 # Screenshot
 <p align = "center">
- <img href="https://user-images.githubusercontent.com/68363290/132544784-020228b2-4e54-4c3f-84a7-5840e6f38f67.JPG">
+ <img src="https://user-images.githubusercontent.com/68363290/132544784-020228b2-4e54-4c3f-84a7-5840e6f38f67.JPG">
  </p>
 <p align="center">
   ![icode2](https://user-images.githubusercontent.com/68363290/132544960-f790fd43-f665-4448-add5-1f2e9e56a70d.JPG)
