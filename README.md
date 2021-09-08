@@ -1,3 +1,4 @@
+![icode1](https://user-images.githubusercontent.com/68363290/132544784-020228b2-4e54-4c3f-84a7-5840e6f38f67.JPG)
 # Question-Answer-Platform Like Quora | 
 This is a Question-Answer-Platform. 
 Made for learning purpose as well as for my academic project.
